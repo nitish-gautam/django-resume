@@ -15,5 +15,5 @@ You also need to download the templates from :
 
 
 
-### TODO:
-All the setting needed for Heroku deployment has been done. The next step shall be actual deployment on heroku. 
+### Heroku Deployment:
+https://django-webresume.herokuapp.com/
